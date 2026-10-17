@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Historia y Mundo/03 - Personajes.md",
+                "file": "03 - Historia y Mundo/04 - Diálogos y Narrativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Personajes"
+              "title": "04 - Diálogos y Narrativa"
             }
           },
           {
@@ -232,16 +232,18 @@
   },
   "active": "e82ac36505658fd7",
   "lastOpenFiles": [
+    "02 - Diseño/02 - Mecánicas.md",
+    "02 - Diseño/01 - Jugabilidad.md",
+    "03 - Historia y Mundo/04 - Diálogos y Narrativa.md",
+    "03 - Historia y Mundo/03 - Personajes.md",
     "03 - Historia y Mundo/02 - Mundo.md",
     "03 - Historia y Mundo/01 - Premisa y Trama.md",
     "02 - Diseño/07 - Reglas y Estados del Juego.md",
     "02 - Diseño/06 - Economía y Recursos.md",
     "02 - Diseño/05 - Progresión.md",
     "02 - Diseño/04 - Controles.md",
-    "02 - Diseño/02 - Mecánicas.md",
     "02 - Diseño/03 - Sistemas.md",
     "01 - Visión/04 - Pilares de Diseño.md",
-    "02 - Diseño/01 - Jugabilidad.md",
     "11 - Referencia de Diseño/06 - Clasificaciones y Etiquetas.md",
     "Sin título.md",
     "01 - Visión/02 - Visión del Juego.md",
@@ -255,8 +257,6 @@
     "04 - Contenido/03 - Enemigos y NPC.md",
     "04 - Contenido/02 - Niveles.md",
     "04 - Contenido/01 - Estructura del Contenido.md",
-    "01 - Visión/01 - Ficha del Proyecto.md",
-    "11 - Referencia de Diseño/04 - Perspectivas y Cámaras.md",
-    "11 - Referencia de Diseño/02 - Subgéneros y Combinaciones.md"
+    "01 - Visión/01 - Ficha del Proyecto.md"
   ]
 }
