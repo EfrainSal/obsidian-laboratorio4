@@ -9,13 +9,13 @@ Los pilares son los principios que deben mantenerse durante todo el desarrollo. 
 **Descripción:**
 El combate es uno de los elementos principales del videojuego. El jugador deberá enfrentarse a diferentes experimentos fallidos utilizando armas y habilidades especiales para avanzar por los cuatro pisos del laboratorio.
 **¿Cómo se refleja en el juego?**
-El jugador contará con armas como el subfusil y el machete para enfrentarse a los enemigos. Además, cada personaje tendrá una habilidad diferente: Jason Smith podrá utilizar un escudo para protegerse y Milena Rhea podrá deslizarse para esquivar ataques. Los enfrentamientos aumentarán el desafío conforme el jugador avance por los pisos hasta llegar al jefe final, Dr. Yiva.
+El jugador contará con armas como el subfusil y el machete para enfrentarse a los enemigos. Además, cada personaje tendrá una habilidad diferente: Jason Smith podrá utilizar un escudo para protegerse y Milena Rhea podrá deslizarse para esquivar ataques. Los enfrentamientos aumentarán el desafío conforme el jugador avance por los pisos hasta llegar al jefe final.
 ## Pilar 2 — Supervivencia y desafío
 
 **Descripción:**
 El juego debe representar un desafío constante en el que el jugador tenga que administrar sus recursos, tomar decisiones y sobrevivir hasta completar todos los pisos del laboratorio.
 **¿Cómo se refleja en el juego?**
-El jugador tendrá una cantidad limitada de recursos, como balas y objetos de curación. Podrá encontrar vendas para recuperar una pequeña cantidad de vida e inyecciones de adrenalina que permitirán recuperar la vida al máximo y aumentar temporalmente la velocidad. Si el jugador pierde en cualquiera de los pisos, deberá comenzar nuevamente desde el primer piso, haciendo que cada partida represente un nuevo intento por completar el laboratorio.
+El jugador tendrá una cantidad limitada de recursos, como balas y objetos de curación. Podrá encontrar vendas para recuperar una pequeña cantidad de vida o curaciones que permitirán recuperar la vida al máximo y aumentar temporalmente la velocidad. Si el jugador pierde en cualquiera de los pisos, deberá comenzar nuevamente desde el primer piso, haciendo que cada partida represente un nuevo intento por completar el laboratorio.
 ## Pilar 3 — Generar tensión
 
 **Descripción:**

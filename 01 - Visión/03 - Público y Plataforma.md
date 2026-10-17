@@ -15,18 +15,18 @@ Intermedia
 **Intereses relevantes:**
 Juego de supervivencia y acción junto con suspenso y estrategia para aguantar y llegar hasta el final
 **Conocimientos previos necesarios:**
-
+Conocimiento en uso ágil de las teclas de movimiento como los son WASD y uso del ratón para apuntar a los enemigos.
 ## Plataforma
 
-| Elemento                | Decisión        |
-| ----------------------- | --------------- |
-| Plataforma principal    | PC              |
-| Plataformas secundarias |                 |
-| Método de entrada       | Teclado / Mouse |
-| Resolución objetivo     |                 |
-| Relación de aspecto     |                 |
-| Rendimiento objetivo    | FPS             |
-| Conexión requerida      | No              |
+| Elemento                | Decisión            |
+| ----------------------- | ------------------- |
+| Plataforma principal    | PC                  |
+| Plataformas secundarias |                     |
+| Método de entrada       | Teclado / Mouse     |
+| Resolución objetivo     | Full HD (1920x1080) |
+| Relación de aspecto     | 16:9                |
+| Rendimiento objetivo    | 60 FPS              |
+| Conexión requerida      | No                  |
 
 ## Restricciones de plataforma
 
@@ -46,8 +46,8 @@ Prototipo Académico
 ## Consideraciones
 
 - [ ] Controles adaptados a la plataforma
-- [ ] Interfaz legible
-- [ ] Rendimiento considerado
+- [x] Interfaz legible
+- [x] Rendimiento considerado
 - [ ] Resoluciones consideradas
 - [ ] Guardado compatible
 
