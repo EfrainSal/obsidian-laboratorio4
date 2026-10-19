@@ -68,10 +68,9 @@ Comienza el combate final. Si el jugador derrota al Dr. Yiba, completa la misió
 ## Tono
 
 Describe el lenguaje, humor, formalidad y estilo de comunicación.
-La narrativa de Laboratorio 4 tendrá un tono serio, misterioso y de tensión, relacionado con la ciencia ficción, el terror biológico y la supervivencia.
+La narrativa de Laboratorio 4 tendrá un tono serio, misterioso y de tensión.
 Los diálogos serán breves y directos, utilizando un lenguaje sencillo que permita al jugador comprender los acontecimientos sin necesidad de explicaciones científicas complejas.
 Jason Smith mantendrá una comunicación seria y disciplinada, mientras que Milena Rhea mostrará una actitud más decidida e impulsiva. Por su parte, el Dr. Yiba utilizará un lenguaje frío y científico, reflejando su obsesión por encontrar una cura.
-El humor no será un elemento principal, ya que se busca mantener una atmósfera de peligro e incertidumbre durante el recorrido por el laboratorio.
 ## Decisiones narrativas
 
 | Decisión                          | Opciones                                             | Consecuencia                                                                      |

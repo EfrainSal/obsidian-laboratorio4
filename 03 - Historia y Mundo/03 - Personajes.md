@@ -53,10 +53,9 @@ Jason comienza como un exmilitar que había dejado atrás su vida de combate. Du
 
 **Frases o tono de diálogo:**
 Mantiene un tono serio, firme y directo, utilizando expresiones breves relacionadas con su experiencia militar.
-Ejemplo: "No sabemos qué hay ahí dentro, pero tenemos que terminar esta misión."
 
 **Referencias visuales:**
-Personaje de apariencia militar contemporánea, con ropa de supervivencia y colores oscuros. Su diseño se representa mediante pixel art con perspectiva superior (top-down), adaptado al estilo visual del videojuego.
+Personaje de apariencia militar contemporánea, con ropa de supervivencia y colores oscuros. Su diseño se representa mediante pixel art con perspectiva superior, adaptado al estilo visual del videojuego.
 
 ### Nombre: Milena Rhea
 
@@ -64,7 +63,7 @@ Personaje de apariencia militar contemporánea, con ropa de supervivencia y colo
 Protagonista principal seleccionable.
 
 **Función jugable:** 
-Personaje especializado en la movilidad y evasión de ataques
+Personaje especializado en la movilidad y evasión de ataques.
 
 **Función narrativa:** 
 Militar principiante que participa en una misión de alto riesgo junto a Jason Smith.
@@ -78,7 +77,8 @@ Es valiente, decidida y perseverante. Aunque cuenta con poca experiencia militar
 **Motivaciones:** 
 Demostrar sus capacidades como militar y contribuir a detener la amenaza que representa la enfermedad Necrosia.
 
-**Objetivos:** Investigar las instalaciones del Laboratorio 4, sobrevivir a los enemigos y completar la misión.
+**Objetivos:** 
+Investigar las instalaciones del Laboratorio 4, sobrevivir a los enemigos y completar la misión.
 
 **Conflicto:** 
 Su falta de experiencia en operaciones de alto riesgo representa un desafío, especialmente al enfrentarse a criaturas desconocidas y situaciones que requieren decisiones rápidas.
@@ -94,7 +94,7 @@ Milena comienza como una militar con poca experiencia en misiones peligrosas. Co
 **Habilidades:** 
 - Utiliza un subfusil como arma principal.
 - Posee una habilidad especial de deslizamiento que le permite desplazarse rápidamente para evitar ataques.
-- Su estilo de combate se enfoca en el movimiento y la evasión.
+- Su estilo de combate se enfoca en la evasión.
 
 **Debilidades:**
 - No cuenta con una habilidad defensiva como el escudo de Jason.
@@ -103,7 +103,6 @@ Milena comienza como una militar con poca experiencia en misiones peligrosas. Co
 
 **Frases o tono de diálogo:**
 Su forma de hablar es directa, decidida y en ocasiones impulsiva, reflejando su determinación y falta de experiencia.
-Ejemplo: "No importa cuántas criaturas aparezcan, tenemos que seguir avanzando."
 
 **Referencias visuales:**
 Personaje femenino de apariencia militar moderna, con vestimenta práctica, cabello recogido y botas. Su diseño utiliza pixel art con perspectiva superior, manteniendo coherencia con Jason Smith y los escenarios del videojuego.
@@ -154,7 +153,6 @@ El Dr. Yiba comienza como un científico que intenta solucionar una crisis sanit
 
 **Frases o tono de diálogo:**
 Su forma de hablar es científica, fría y obsesiva. Considera que sus experimentos están justificados por la posibilidad de encontrar una cura.
-Ejemplo: "Ustedes solo ven monstruos. Yo veo el resultado de años de investigación."
 
 **Referencias visuales:**
 Científico de apariencia perturbadora, con bata de laboratorio deteriorada, vestimenta oscura y elementos visuales relacionados con sus experimentos. Su diseño debe transmitir que representa la amenaza principal del videojuego.
@@ -211,11 +209,6 @@ Criaturas humanoides deformadas, de colores oscuros y aspecto biológico perturb
 Documenta qué NPC existen, qué hacen y cómo interactúan con el jugador.
 En la versión actual de Laboratorio 4, no se contemplan NPC aliados con los que el jugador pueda conversar o realizar misiones secundarias.
 Los personajes no controlados directamente por el jugador estarán representados principalmente por los enemigos, cuyo comportamiento será gestionado por el sistema del videojuego.
-
-| NPC      | Función                                            | Interaccion con el jugador                                                |
-| -------- | -------------------------------------------------- | ------------------------------------------------------------------------- |
-| Sorbos   | Enemigos comunes que aparecen durante las oleadas. | Persiguen y atacan al jugador. Al ser derrotados, pueden soltar munición. |
-| Dr. Yiba | Antagonista principal y jefe final.                | Se enfrenta al jugador durante el combate final del cuarto piso.          |
 
 
 > **Navegación:** [[00 - Índice]] · ← [[02 - Mundo]] · [[04 - Diálogos y Narrativa]] →

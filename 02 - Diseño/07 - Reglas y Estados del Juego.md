@@ -32,7 +32,7 @@ Define las reglas globales y los estados que puede atravesar el videojuego.
 
 1.- Si el jugador es derrotado en cualquier punto de los cuatro pisos, pierde de forma definitiva el inventario, los recursos acumulados y el nivel actual, reiniciando su avance estrictamente en el _Piso 1_.
 
-2.- Ninguna puerta de salida o ascensor entre niveles puede abrirse a menos que el jugador posea la tarjeta de acceso correspondiente a ese piso específico.
+2.- Ninguna acceso entre niveles puede abrirse a menos que el jugador posea la tarjeta de acceso correspondiente a ese piso específico.
 
 3.- El estado de pausa suspende de forma absoluta el movimiento de los enemigos y la física de proyectiles.
 
