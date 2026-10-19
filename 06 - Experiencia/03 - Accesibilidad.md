@@ -6,9 +6,9 @@ La accesibilidad busca que el mayor número posible de jugadores pueda comprende
 
 ## Opciones previstas
 
-- [ ] Tamaño de texto
+- [x] Tamaño de texto
 - [ ] Subtítulos
-- [ ] Contraste
+- [x] Contraste
 - [ ] Modo para daltonismo
 - [ ] Reasignación de controles
 - [ ] Sensibilidad
@@ -17,7 +17,7 @@ La accesibilidad busca que el mayor número posible de jugadores pueda comprende
 - [ ] Asistencia de apuntado
 - [ ] Dificultad ajustable
 - [ ] Volumen independiente
-- [ ] Indicadores visuales para sonidos importantes
+- [x] Indicadores visuales para sonidos importantes
 
 ## Consideraciones
 
