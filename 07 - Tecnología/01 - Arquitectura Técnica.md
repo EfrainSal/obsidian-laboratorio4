@@ -7,25 +7,29 @@ Explica cómo está construido técnicamente el videojuego y cómo se comunican 
 ## Arquitectura
 
 ```text
-Entrada
+Entrada (Teclado)
   ↓
-Controlador
+Controlador (Movimiento)
   ↓
-Lógica de juego
+Lógica de juego (Combate y avence en Pisos)
   ↓
-Sistemas
+Sistemas (Gestion de escenas y Audio)
   ↓
 Datos / Persistencia
   ↓
-Presentación
+Presentación (Animacion, Sprite, UICanvas)
 ```
 
 ## Componentes principales
 
 | Componente | Responsabilidad | Dependencias |
-|---|---|---|
-| | | |
-| | | |
+| ---------- | --------------- | ------------ |
+|            |                 |              |
+|            |                 |              |
+|            |                 |              |
+|            |                 |              |
+|            |                 |              |
+|            |                 |              |
 
 ## Comunicación
 
