@@ -23,7 +23,7 @@ Laboratorio 4
 | Mundos   |        1 |
 | Niveles  |        4 |
 | Misiones |        1 |
-| Enemigos |        1 |
+| Enemigos |        2 |
 | Jefes    |        1 |
 | NPC      |        0 |
 | Objetos  |        5 |
