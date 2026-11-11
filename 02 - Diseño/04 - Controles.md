@@ -6,14 +6,15 @@ Define la relación entre las acciones del jugador y las entradas físicas del d
 
 ## Mapa de controles
 
-| Acción            | Teclado | Mouse          | Control | Táctil |
-| ----------------- | ------- | -------------- | ------- | ------ |
-| Mover             | W,A,S,D |                |         |        |
-| Interactuar       | F       |                |         |        |
-| Ataque principal  |         | Clic izquierdo |         |        |
-| Ataque secundario | E       | Clic derecho   |         |        |
-| Saltar            |         |                |         |        |
-| Menú              | ESC     |                |         |        |
+| Acción           | Teclado | Mouse          | Control | Táctil |
+| ---------------- | ------- | -------------- | ------- | ------ |
+| Mover            | W,A,S,D |                |         |        |
+| Interactuar      | E       |                |         |        |
+| Ataque principal |         | Clic izquierdo |         |        |
+| Cambio de arma   | Q       |                |         |        |
+| Habilidad        | Espacio |                |         |        |
+| Menú             | ESC     |                |         |        |
+| Recarga          | R       |                |         |        |
 
 ## Principios de control
 
@@ -38,6 +39,6 @@ Describe qué ocurre inmediatamente después de cada entrada importante.
 
 - Tecla 1 / 2 ->  Actualización instantánea en la barra de salud.
 
-- Tecla F -> Sonido de recolección, icono de tarjeta y apertura de puerta.
+- Tecla E -> Sonido de recolección, icono de tarjeta y apertura de puerta.
 
 > **Navegación:** [[00 - Índice]] · ← [[03 - Sistemas]] · [[05 - Progresión]] →

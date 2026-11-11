@@ -30,7 +30,7 @@ El jugador apunta con el mouse mientras se mueve con el teclado para familiariza
 ## Experiencia minuto a minuto
 
 ¿Qué actividades se repiten durante una sesión?
-Alternar constantemente entre la exploración cuidadosa del nivel y el combate contra oleadas de Sorbos que aumentan en densidad. El jugador debe constantemente revisar su estado (salud y munición), decidir cuándo gastar curaciones, y localizar  tarjeta de acceso para acceder al siguiente piso.
+Alternar constantemente entre la exploración cuidadosa del nivel y el combate contra oleadas de Sorbos que aumentan en densidad. El jugador debe constantemente revisar su estado (salud y munición), decidir cuándo gastar curaciones, y localizar la tarjeta de acceso para acceder al siguiente piso.
 ## Experiencia a largo plazo
 
 ¿Qué hace que el jugador quiera continuar?
